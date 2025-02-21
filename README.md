@@ -1,6 +1,3 @@
-Here’s the updated content based on your description:
-
----
 
 # Online Yum Restaurant
 
