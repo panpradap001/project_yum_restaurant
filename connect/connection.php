@@ -4,7 +4,7 @@ error_reporting(E_ALL);
 
 $host = 'sql303.infinityfree.com';
 $user = 'if0_38248891';
-$pass = 'panpradap007'; // ใส่รหัสจริง
+$pass = '#'; // ใส่รหัสจริง
 $db = 'if0_38248891_myFirstDB';
 
 $conn = new mysqli($host, $user, $pass, $db);
