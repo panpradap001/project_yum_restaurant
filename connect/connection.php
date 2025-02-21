@@ -2,10 +2,10 @@
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
-$host = 'sql303.infinityfree.com';
-$user = 'if0_38248891';
-$pass = 'panpradap007'; 
-$db = 'if0_38248891_myFirstDB';
+$host = '#';
+$user = '#';
+$pass = '#'; 
+$db = '#';
 
 $conn = new mysqli($host, $user, $pass, $db);
 
